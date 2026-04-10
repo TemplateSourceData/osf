@@ -1,42 +1,42 @@
-"OSF-SEL","STORE#","STORE","ADDRESS","ADDRESS2","City","State","Zip","PHONE","FAX","MANAGEREMAIL","GMEMAIL"
-"1 Carmel Old Spaghetti Factory","1","Carmel Old Spaghetti Factory","918 S Rangeline Rd","","Carmel","IN","46032","(317) 708-9669","(999) 999-9999","carmel@osf.com","carmel_gm@osf.com"
-"2 Fairfield Old Spaghetti Factory","2","Fairfield Old Spaghetti Factory","6320 South Gilmore","","Fairfield","OH","45014","(513) 942-6620","(999) 999-9999","fairfield@osf.com","fairfield_gm@osf.com"
-"3 Indianapolis Old Spaghetti Factory","3","Indianapolis Old Spaghetti Factory","210 South Meridian","","Indianapolis","IN","46225","(317) 635-6325","(999) 999-9999","indianapolis@osf.com","indianapolis_gm@osf.com"
-"4 Louisville Old Spaghetti Factory","4","Louisville Old Spaghetti Factory","235 West Market","","Louisville","KY","40202","(502) 581-1070","(999) 999-9999","louisville@osf.com","louisville_gm@osf.com"
-"5 Oklahoma City Old Spaghetti Factory","5","Oklahoma City Old Spaghetti Factory","1 South Mickey Mantle Drive","","Oklahoma City","OK","73104","(405) 669-4400","(999) 999-9999","oklahomacity@osf.com","oklahomacity_gm@osf.com"
-"6 Salt Lake City Old Spaghetti Factory","6","Salt Lake City Old Spaghetti Factory","189 Trolley Square","","Salt Lake City","UT","84102","(801) 521-0424","(999) 999-9999","saltlake@osf.com","saltlake_gm@osf.com"
-"7 Taylorsville Old Spaghetti Factory","7","Taylorsville Old Spaghetti Factory","5718 S 1900 West","","Taylorsville","UT","84129","(801) 966-2765","(999) 999-9999","taylorsville@osf.com","taylorsville_gm@osf.com"
-"8 Sacramento-Arden Old Spaghetti Factory","8","Sacramento-Arden Old Spaghetti Factory","1625 Watt Avenue","","Sacramento","CA","95864","(916) 999-1723","(999) 999-9999","arden@osf.com","arden_gm@osf.com"
-"9 Clackamas Old Spaghetti Factory","9","Clackamas Old Spaghetti Factory","12725 SE 93rd Avenue","","Clackamas","OR","97015","(503) 653-7949","(999) 999-9999","clackamas@osf.com","clackamas_gm@osf.com"
-"10 Concord Old Spaghetti Factory","10","Concord Old Spaghetti Factory","1955 Mt. Diablo","","Concord","CA","94520","(925) 687-5030","(999) 999-9999","concord@osf.com","concord_gm@osf.com"
-"11 Elk Grove Old Spaghetti Factory","11","Elk Grove Old Spaghetti Factory","7727 Laguna Blvd.","","Elk Grove","CA","95758","(916) 478-2400","(999) 999-9999","elkgrove@osf.com","elkgrove_gm@osf.com"
-"12 Fresno Old Spaghetti Factory","12","Fresno Old Spaghetti Factory","1610 East Shaw Avenue","","Fresno","CA","93710","(559) 222-1066","(999) 999-9999","fresno@osf.com","fresno_gm@osf.com"
-"13 Fullerton Old Spaghetti Factory","13","Fullerton Old Spaghetti Factory","110 East Santa Fe","","Fullerton","CA","92832","(714) 526-6801","(999) 999-9999","fullerton@osf.com","fullerton_gm@osf.com"
-"14 Lynnwood Old Spaghetti Factory","14","Lynnwood Old Spaghetti Factory","2509 196th Street SW","","Lynnwood","WA","98036","(425) 672-7006","(999) 999-9999","lynnwood@osf.com","lynnwood_gm@osf.com"
-"15 Newport Old Spaghetti Factory","15","Newport Old Spaghetti Factory","2110 Newport Blvd","","Newport","CA","92663","(949) 675-8654","(999) 999-9999","newport@osf.com","newport_gm@osf.com"
-"16 Portland Old Spaghetti Factory","16","Portland Old Spaghetti Factory","0715 SW Bancroft","","Portland","OR","97239","(503) 222-5375","(999) 999-9999","portland@osf.com","portland_gm@osf.com"
-"17 Rancho Cordova Old Spaghetti Factory","17","Rancho Cordova Old Spaghetti Factory","Nimbus Winery  -  12401 Folsom Blvd.","","Rancho Cordova","CA","95742","(916) 985-0822","(999) 999-9999","ranchocordova@osf.com","ranchocordova_gm@osf.com"
-"18 Rancho Cucamonga Old Spaghetti Factory","18","Rancho Cucamonga Old Spaghetti Factory","11896 Foothill Blvd","","Rancho Cucamonga","CA","91730","(909) 980-3585","(999) 999-9999","rcucamonga@osf.com","rcucamonga_gm@osf.com"
-"19 Redlands Old Spaghetti Factory","19","Redlands Old Spaghetti Factory","1635 Industrial Park Avenue","","Redlands","CA","92374","(909) 798-7774","(999) 999-9999","redlands@osf.com","redlands_gm@osf.com"
-"20 Riverside Old Spaghetti Factory","20","Riverside Old Spaghetti Factory","3191 Mission Inn Avenue","","Riverside","CA","92507","(951) 784-4417","(999) 999-9999","riverside@osf.com","riverside_gm@osf.com"
-"21 Roseville Old Spaghetti Factory","21","Roseville Old Spaghetti Factory","731 Sunrise Avenue","","Roseville","CA","95661","(916) 773-3950","(999) 999-9999","roseville@osf.com","roseville_gm@osf.com"
-"22 Sacramento Old Spaghetti Factory","22","Sacramento Old Spaghetti Factory","1910 ""J"" Street","","Sacramento","CA","95811","(916) 443-2862","(999) 999-9999","sacramento@osf.com","sacramento_gm@osf.com"
-"23 Sherwood Old Spaghetti Factory","23","Sherwood Old Spaghetti Factory","21192 SW Langer Farms Parkway","","Sherwood","OR","97140","(503) 625-9962","(999) 999-9999","sherwood@osf.com","sherwood_gm@osf.com"
-"24 Spokane Old Spaghetti Factory","24","Spokane Old Spaghetti Factory","152 South Monroe Street","","Spokane","WA","99201","(509) 624-8916","(999) 999-9999","spokane@osf.com","spokane_gm@osf.com"
-"25 Tacoma Old Spaghetti Factory","25","Tacoma Old Spaghetti Factory","1250 Pacific Avenue","#101","Tacoma","WA","98402","(253) 383-2214","(999) 999-9999","tacoma@osf.com","tacoma_gm@osf.com"
-"26 Tanasbourne Old Spaghetti Factory","26","Tanasbourne Old Spaghetti Factory","18925 NW Tanasbourne Drive","","Hillsboro","OR","97124","(503) 617-7614","(999) 999-9999","tanasbourne@osf.com","tanasbourne_gm@osf.com"
-"27 Vancouver Old Spaghetti Factory","27","Vancouver Old Spaghetti Factory","730 SE 160th Avenue","","Vancouver","WA","98684","(360) 253-9030","(999) 999-9999","vancouver@osf.com","vancouver_gm@osf.com"
-"28 Rancho Mirage Old Spaghetti Factory","28","Rancho Mirage Old Spaghetti Factory","71-743 Hwy 111","Suite A","Rancho Mirage","CA","92270","(760) 341-5600","(999) 999-9999","ranchomirage@osf.com","ranchomirage_gm@osf.com"
-"29 San Marcos Old Spaghetti Factory","29","San Marcos Old Spaghetti Factory","111 N. Twin Oaks Valley Road","","San Marcos","CA","92069","(760) 471-0155","(999) 999-9999","sanmarcos@osf.com","sanmarcos_gm@osf.com"
-"30 San Diego Old Spaghetti Factory","30","San Diego Old Spaghetti Factory","275 Fifth Avenue","","San Diego","CA","92101","(619) 233-4323","(999) 999-9999","sandiego@osf.com","sandiego_gm@osf.com"
-"31 Duarte Old Spaghetti Factory","31","Duarte Old Spaghetti Factory","1431 Buena Vista","","Duarte","CA","91010","(626) 358-2115","(999) 999-9999","duarte@osf.com","duarte_gm@osf.com"
-"32 San Jose Old Spaghetti Factory","32","San Jose Old Spaghetti Factory","51 North San Pedro","","San Jose","CA","95110","(408) 288-7488","(999) 999-9999","sanjose@osf.com","sanjose_gm@osf.com"
-"33 Chesterfield Old Spaghetti Factory","33","Chesterfield Old Spaghetti Factory","17384 Chesterfield Airport Road","","Chesterfield","MO","63005","(636) 536-9522","(999) 999-9999","chesterfield@osf.com","chesterfield_gm@osf.com"
-"34 Colorado Springs Old Spaghetti Factory","34","Colorado Springs Old Spaghetti Factory","3101 New Center Point","","Colorado Springs","CO","80922","(719) 387-0799","(999) 999-9999","coloradosprings@osf.com","coloradosprings_gm@osf.com"
-"35 Corvallis Old Spaghetti Factory","35","Corvallis Old Spaghetti Factory","603 NW 2nd Street","","Corvallis","OR","97330","(541) 738-7877","(999) 999-9999","corvallis@osf.com","corvallis_gm@osf.com"
-"36 Eugene Old Spaghetti Factory","36","Eugene Old Spaghetti Factory","27 East 5th Avenue","","Eugene ","OR","97401","(541) 735-9668","(999) 999-9999","eugene@osf.com","eugene_gm@osf.com"
-"37 Phoenix Old Spaghetti Factory","37","Phoenix Old Spaghetti Factory","1418 N Central Avenue","","Phoenix","AZ","85004","(602) 257-0380","(999) 999-9999","phoenix@osf.com","phoenix_gm@osf.com"
-"38 St. Louis Old Spaghetti Factory","38","St. Louis Old Spaghetti Factory","727 North First Street","","St. Louis","MO","63102","(314) 621-0276","(999) 999-9999","stlouis@osf.com","stlouis_gm@osf.com"
-"39 Westminster Old Spaghett Factory","39","Westminster Old Spaghett Factory","9145 Sheridan Blvd","","Westminster","CO","80031","(720) 306-8874","(999) 999-9999","westminster@osf.com","westminster_gm@osf.com"
-"40 Honolulu Old Spaghetti Factory","40","Honolulu Old Spaghetti Factory","3 Aloha Tower Drive","Suite 1106","Honolulu","HI","96813","(808) 591-2513","(999) 999-9999","honolulu@osf.com","honolulu_gm@osf.com"
-"41 Medford Old Spaghetti Factory","41","Medford Old Spaghetti Factory","147 North Front Street","","Medford","OR","97501","(458) 225-1670","(999) 999-9999","medford@osf.com","medford_gm@osf.com"
+OSF-SEL,STORE#,STORE,ADDRESS,ADDRESS2,City,State,Zip,PHONE,FAX,MANAGER EMAIL,GM EMAIL
+1 Carmel Old Spaghetti Factory,1,Carmel Old Spaghetti Factory,918 S Rangeline Rd,,Carmel,IN,46032,(317) 708-9669,(999) 999-9999,carmel@osf.com,carmel_gm@osf.com
+2 Fairfield Old Spaghetti Factory,2,Fairfield Old Spaghetti Factory,6320 South Gilmore,,Fairfield,OH,45014,(513) 942-6620,(999) 999-9999,fairfield@osf.com,fairfield_gm@osf.com
+3 Indianapolis Old Spaghetti Factory,3,Indianapolis Old Spaghetti Factory,210 South Meridian,,Indianapolis,IN,46225,(317) 635-6325,(999) 999-9999,indianapolis@osf.com,indianapolis_gm@osf.com
+4 Louisville Old Spaghetti Factory,4,Louisville Old Spaghetti Factory,235 West Market,,Louisville,KY,40202,(502) 581-1070,(999) 999-9999,louisville@osf.com,louisville_gm@osf.com
+5 Oklahoma City Old Spaghetti Factory,5,Oklahoma City Old Spaghetti Factory,1 South Mickey Mantle Drive,,Oklahoma City,OK,73104,(405) 669-4400,(999) 999-9999,oklahomacity@osf.com,oklahomacity_gm@osf.com
+6 Salt Lake City Old Spaghetti Factory,6,Salt Lake City Old Spaghetti Factory,189 Trolley Square,,Salt Lake City,UT,84102,(801) 521-0424,(999) 999-9999,saltlake@osf.com,saltlake_gm@osf.com
+7 Taylorsville Old Spaghetti Factory,7,Taylorsville Old Spaghetti Factory,5718 S 1900 West,,Taylorsville,UT,84129,(801) 966-2765,(999) 999-9999,taylorsville@osf.com,taylorsville_gm@osf.com
+8 Sacramento-Arden Old Spaghetti Factory,8,Sacramento-Arden Old Spaghetti Factory,1625 Watt Avenue,,Sacramento,CA,95864,(916) 999-1723,(999) 999-9999,arden@osf.com,arden_gm@osf.com
+9 Clackamas Old Spaghetti Factory,9,Clackamas Old Spaghetti Factory,12725 SE 93rd Avenue,,Clackamas,OR,97015,(503) 653-7949,(999) 999-9999,clackamas@osf.com,clackamas_gm@osf.com
+10 Concord Old Spaghetti Factory,10,Concord Old Spaghetti Factory,1955 Mt. Diablo,,Concord,CA,94520,(925) 687-5030,(999) 999-9999,concord@osf.com,concord_gm@osf.com
+11 Elk Grove Old Spaghetti Factory,11,Elk Grove Old Spaghetti Factory,7727 Laguna Blvd.,,Elk Grove,CA,95758,(916) 478-2400,(999) 999-9999,elkgrove@osf.com,elkgrove_gm@osf.com
+12 Fresno Old Spaghetti Factory,12,Fresno Old Spaghetti Factory,1610 East Shaw Avenue,,Fresno,CA,93710,(559) 222-1066,(999) 999-9999,fresno@osf.com,fresno_gm@osf.com
+13 Fullerton Old Spaghetti Factory,13,Fullerton Old Spaghetti Factory,110 East Santa Fe,,Fullerton,CA,92832,(714) 526-6801,(999) 999-9999,fullerton@osf.com,fullerton_gm@osf.com
+14 Lynnwood Old Spaghetti Factory,14,Lynnwood Old Spaghetti Factory,2509 196th Street SW,,Lynnwood,WA,98036,(425) 672-7006,(999) 999-9999,lynnwood@osf.com,lynnwood_gm@osf.com
+15 Newport Old Spaghetti Factory,15,Newport Old Spaghetti Factory,2110 Newport Blvd,,Newport,CA,92663,(949) 675-8654,(999) 999-9999,newport@osf.com,newport_gm@osf.com
+16 Portland Old Spaghetti Factory,16,Portland Old Spaghetti Factory,0715 SW Bancroft,,Portland,OR,97239,(503) 222-5375,(999) 999-9999,portland@osf.com,portland_gm@osf.com
+17 Rancho Cordova Old Spaghetti Factory,17,Rancho Cordova Old Spaghetti Factory,Nimbus Winery  -  12401 Folsom Blvd.,,Rancho Cordova,CA,95742,(916) 985-0822,(999) 999-9999,ranchocordova@osf.com,ranchocordova_gm@osf.com
+18 Rancho Cucamonga Old Spaghetti Factory,18,Rancho Cucamonga Old Spaghetti Factory,11896 Foothill Blvd,,Rancho Cucamonga,CA,91730,(909) 980-3585,(999) 999-9999,rcucamonga@osf.com,rcucamonga_gm@osf.com
+19 Redlands Old Spaghetti Factory,19,Redlands Old Spaghetti Factory,1635 Industrial Park Avenue,,Redlands,CA,92374,(909) 798-7774,(999) 999-9999,redlands@osf.com,redlands_gm@osf.com
+20 Riverside Old Spaghetti Factory,20,Riverside Old Spaghetti Factory,3191 Mission Inn Avenue,,Riverside,CA,92507,(951) 784-4417,(999) 999-9999,riverside@osf.com,riverside_gm@osf.com
+21 Roseville Old Spaghetti Factory,21,Roseville Old Spaghetti Factory,731 Sunrise Avenue,,Roseville,CA,95661,(916) 773-3950,(999) 999-9999,roseville@osf.com,roseville_gm@osf.com
+22 Sacramento Old Spaghetti Factory,22,Sacramento Old Spaghetti Factory,"1910 ""J"" Street",,Sacramento,CA,95811,(916) 443-2862,(999) 999-9999,sacramento@osf.com,sacramento_gm@osf.com
+23 Sherwood Old Spaghetti Factory,23,Sherwood Old Spaghetti Factory,21192 SW Langer Farms Parkway,,Sherwood,OR,97140,(503) 625-9962,(999) 999-9999,sherwood@osf.com,sherwood_gm@osf.com
+24 Spokane Old Spaghetti Factory,24,Spokane Old Spaghetti Factory,152 South Monroe Street,,Spokane,WA,99201,(509) 624-8916,(999) 999-9999,spokane@osf.com,spokane_gm@osf.com
+25 Tacoma Old Spaghetti Factory,25,Tacoma Old Spaghetti Factory,1250 Pacific Avenue,#101,Tacoma,WA,98402,(253) 383-2214,(999) 999-9999,tacoma@osf.com,tacoma_gm@osf.com
+26 Tanasbourne Old Spaghetti Factory,26,Tanasbourne Old Spaghetti Factory,18925 NW Tanasbourne Drive,,Hillsboro,OR,97124,(503) 617-7614,(999) 999-9999,tanasbourne@osf.com,tanasbourne_gm@osf.com
+27 Vancouver Old Spaghetti Factory,27,Vancouver Old Spaghetti Factory,730 SE 160th Avenue,,Vancouver,WA,98684,(360) 253-9030,(999) 999-9999,vancouver@osf.com,vancouver_gm@osf.com
+28 Rancho Mirage Old Spaghetti Factory,28,Rancho Mirage Old Spaghetti Factory,71-743 Hwy 111,Suite A,Rancho Mirage,CA,92270,(760) 341-5600,(999) 999-9999,ranchomirage@osf.com,ranchomirage_gm@osf.com
+29 San Marcos Old Spaghetti Factory,29,San Marcos Old Spaghetti Factory,111 N. Twin Oaks Valley Road,,San Marcos,CA,92069,(760) 471-0155,(999) 999-9999,sanmarcos@osf.com,sanmarcos_gm@osf.com
+30 San Diego Old Spaghetti Factory,30,San Diego Old Spaghetti Factory,275 Fifth Avenue,,San Diego,CA,92101,(619) 233-4323,(999) 999-9999,sandiego@osf.com,sandiego_gm@osf.com
+31 Duarte Old Spaghetti Factory,31,Duarte Old Spaghetti Factory,1431 Buena Vista,,Duarte,CA,91010,(626) 358-2115,(999) 999-9999,duarte@osf.com,duarte_gm@osf.com
+32 San Jose Old Spaghetti Factory,32,San Jose Old Spaghetti Factory,51 North San Pedro,,San Jose,CA,95110,(408) 288-7488,(999) 999-9999,sanjose@osf.com,sanjose_gm@osf.com
+33 Chesterfield Old Spaghetti Factory,33,Chesterfield Old Spaghetti Factory,17384 Chesterfield Airport Road,,Chesterfield,MO,63005,(636) 536-9522,(999) 999-9999,chesterfield@osf.com,chesterfield_gm@osf.com
+34 Colorado Springs Old Spaghetti Factory,34,Colorado Springs Old Spaghetti Factory,3101 New Center Point,,Colorado Springs,CO,80922,(719) 387-0799,(999) 999-9999,coloradosprings@osf.com,coloradosprings_gm@osf.com
+35 Corvallis Old Spaghetti Factory,35,Corvallis Old Spaghetti Factory,603 NW 2nd Street,,Corvallis,OR,97330,(541) 738-7877,(999) 999-9999,corvallis@osf.com,corvallis_gm@osf.com
+36 Eugene Old Spaghetti Factory,36,Eugene Old Spaghetti Factory,27 East 5th Avenue,,Eugene ,OR,97401,(541) 735-9668,(999) 999-9999,eugene@osf.com,eugene_gm@osf.com
+37 Phoenix Old Spaghetti Factory,37,Phoenix Old Spaghetti Factory,1418 N Central Avenue,,Phoenix,AZ,85004,(602) 257-0380,(999) 999-9999,phoenix@osf.com,phoenix_gm@osf.com
+38 St. Louis Old Spaghetti Factory,38,St. Louis Old Spaghetti Factory,727 North First Street,,St. Louis,MO,63102,(314) 621-0276,(999) 999-9999,stlouis@osf.com,stlouis_gm@osf.com
+39 Westminster Old Spaghett Factory,39,Westminster Old Spaghett Factory,9145 Sheridan Blvd,,Westminster,CO,80031,(720) 306-8874,(999) 999-9999,westminster@osf.com,westminster_gm@osf.com
+40 Honolulu Old Spaghetti Factory,40,Honolulu Old Spaghetti Factory,3 Aloha Tower Drive,Suite 1106,Honolulu,HI,96813,(808) 591-2513,(999) 999-9999,honolulu@osf.com,honolulu_gm@osf.com
+41 Medford Old Spaghetti Factory,41,Medford Old Spaghetti Factory,147 North Front Street,,Medford,OR,97501,(458) 225-1670,(999) 999-9999,medford@osf.com,medford_gm@osf.com
