@@ -1,4 +1,4 @@
-"OSF-SEL","STORE#","STORE","ADDRESS","ADDRESS2","City","State","Zip","PHONE","FAX","MANAGER EMAIL","GM EMAIL"
+"OSF-SEL","STORE#","STORE","ADDRESS","ADDRESS2","City","State","Zip","PHONE","FAX","MANAGEREMAIL","GMEMAIL"
 "1 Carmel Old Spaghetti Factory","1","Carmel Old Spaghetti Factory","918 S Rangeline Rd","","Carmel","IN","46032","(317) 708-9669","(999) 999-9999","carmel@osf.com","carmel_gm@osf.com"
 "2 Fairfield Old Spaghetti Factory","2","Fairfield Old Spaghetti Factory","6320 South Gilmore","","Fairfield","OH","45014","(513) 942-6620","(999) 999-9999","fairfield@osf.com","fairfield_gm@osf.com"
 "3 Indianapolis Old Spaghetti Factory","3","Indianapolis Old Spaghetti Factory","210 South Meridian","","Indianapolis","IN","46225","(317) 635-6325","(999) 999-9999","indianapolis@osf.com","indianapolis_gm@osf.com"
